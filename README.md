@@ -3,7 +3,7 @@
 
 ### Certificate
 
-![](Certificate_small.jpg)
+![Certificate](Certificate_small.jpg)
 ## [Kaggle Account](https://www.kaggle.com/rohansomadder)
 ### [Kaggle Competition Page](https://www.kaggle.com/competitions/sa2022)
 
