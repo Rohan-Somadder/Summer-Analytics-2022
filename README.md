@@ -3,7 +3,8 @@
 
 ### Certificate
 
-![Certificate](Certificate_small.jpg)
+<img align = "center" src="Certificate_Small.jpg" width="654" height = "420" />
+
 ## [Kaggle Account](https://www.kaggle.com/rohansomadder)
 ### [Kaggle Competition Page](https://www.kaggle.com/competitions/sa2022)
 
